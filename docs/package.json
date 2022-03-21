@@ -5,14 +5,14 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/bloodf/auttar"
+    "url": "https://github.com/ByINTI/auttar"
   },
   "keywords": [
     "auttar"
   ],
   "author": {
-    "name": "Heitor Ramon Ribeiro",
-    "email": "heitor.ramon@gmail.com"
+    "name": "INTI",
+    "email": "ti@byinti.com"
   },
   "license": "MIT",
   "scripts": {

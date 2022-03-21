@@ -2,21 +2,17 @@
   <footer class="footer">
     <div class="content has-text-centered">
       <p>
-        <strong>Auttar.js</strong> por Heitor Ramon.
+        <strong>Auttar.js</strong> por INTI.
       </p>
       <p>
         <a
-          href="https://heitorramon.com"
+          href="https://byinti.com"
           target="_blank"
         ><span class="icon"><i class="fas fa-home" /></span></a>
         <a
-          href="http://github.com/bloodf/"
+          href="http://github.com/ByINTI/"
           target="_blank"
         ><span class="icon"><i class="fab fa-github" /></span></a>
-        <a
-          href="https://linkedin.com/in/heitorramon/"
-          target="_blank"
-        ><span class="icon"><i class="fab fa-linkedin" /></span></a>
       </p>
       <hr>
       <p>
