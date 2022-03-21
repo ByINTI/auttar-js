@@ -1,21 +1,19 @@
 {
-  "name": "ByINTI/auttarjs",
-  "version": "0.0.1",
+  "name": "@shanwker/auttar",
+  "version": "1.0.0",
   "description": "Auttar WebSocket JS Class. An easy implementation of Auttar WebSocket Service.",
-  "private": false,
+  "directories": {
+    "doc": "docs"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ByINTI/auttar-js.git"
+    "url": "git+https://github.com/ByINTI/auttar-js.git"
   },
-  "keywords": [
-    "auttar",
-    "websocket",
-    "tef"
-  ],
-  "author": {
-    "name": "INTI",
-    "email": "ti@byinti.com"
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ByINTI/auttar-js/issues"
   },
+  "homepage": "https://github.com/ByINTI/auttar-js#readme",
   "license": "MIT",
   "cdn": "dist/index.umd.js",
   "main": "dist/index.js",
@@ -63,6 +61,7 @@
     "typescript": "^3.3.3333"
   },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src --fix",
     "build": "bili",
     "prepublish": "npm run build",
